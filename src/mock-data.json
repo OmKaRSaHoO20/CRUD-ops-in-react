@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Omkar Sahoo",
+    "phoneNumber": "2132132113",
+    "email": "omkarsahoo@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Hello world",
+    "phoneNumber": "545654644114",
+    "email": "jebnfvciuwe@gmail.com"
+  },
+  {
+    "id": 3,
+    "fullName": "Aryan",
+    "phoneNumber": "65444414",
+    "email": "hjvbuywrtb@gmail.com"
+  },
+  {
+    "id": 4,
+    "fullName": "yahoo",
+    "phoneNumber": "654464554",
+    "email": "yahoo@email.com"
+  }
+]
